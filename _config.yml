@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "사이트 "
 title_separator          : "-"
 name                     : "Jason Sohn"
 description              : "테스트 블로그입니다."
